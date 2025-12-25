@@ -1,0 +1,2 @@
+TOKEN = "8290766561:AAE2eYqoGfukQdSQNjzklFfXoTBEMr-UaCk"
+DB_NAME = "shop.db"
