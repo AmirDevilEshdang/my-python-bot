@@ -1,2 +1,2 @@
-TOKEN = "8290766561:AAE2eYqoGfukQdSQNjzklFfXoTBEMr-UaCk"
+TOKEN = "your token"
 DB_NAME = "shop.db"
